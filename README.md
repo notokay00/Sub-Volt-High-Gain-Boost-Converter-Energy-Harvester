@@ -25,13 +25,4 @@ The 2-layer FR4 PCB measures 33.35 mm × 25.80 mm and was designed in KiCad 8.0 
 * `/Simulation/`: TINA-TI transient SPICE models demonstrating the cold-start ramp, supercapacitor voltage coupling, and 64ms Nano-Power `VRDIV` sampling pulses.
 * `/Docs/`: Final engineering report, component design calculations, layout verification, and manufacturing Bill of Materials.
 
-## 👥 Project Team
-**Pandit Deendayal Energy University (PDEU)**  
-*Department of Electrical Engineering | Power Electronic Converters
 
-* **Maharshi Dave** (24BEE010)
-* **Vansh Soni** (24BEE027)
-* **Yagna Khokhariya** (24BEE029)
-* **Soham Trivedi** (24BEE059)
-
-*Course Instructor & Evaluation: Prof. Het Bhalja*
